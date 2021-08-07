@@ -3,7 +3,7 @@
 ## 1 - 'clustering with more than two features'
 
 ### data
-[e-commerce dataset]{https://github.com/MauricioLetelier/E-commerce-Clustering}
+[e-commerce dataset](https://github.com/MauricioLetelier/E-commerce-Clustering)
 
 ### analysing
 
@@ -95,4 +95,4 @@ fig.show()
 ```
 
 ## 引用
-1. ['Clustering With More Than Two Features? Try This To Explain Your Findings']{https://towardsdatascience.com/clustering-with-more-than-two-features-try-this-to-explain-your-findings-b053007d680a}
+1. ['Clustering With More Than Two Features? Try This To Explain Your Findings'](https://towardsdatascience.com/clustering-with-more-than-two-features-try-this-to-explain-your-findings-b053007d680a)
